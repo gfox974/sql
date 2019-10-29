@@ -1,0 +1,13 @@
+MySql (sql -> structured query langage) est un langage de requetes permettant d'interagir avec une base de données (sgbd)
+On utilise en general 4 types de requetes :
+
+INSERT -> insertion
+UPDATE -> modification
+DELETE -> suppression
+SELECT -> selection
+
+Quelques termes :
+
+MCD : modele conceptuel de données (plan de construction)
+SGBD : systeme de gestion de bases de données
+BDD : base de données

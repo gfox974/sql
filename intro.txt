@@ -1,0 +1,19 @@
+MYSQL : langage de requête pemrttant d'intéroger une base de données
+
+4 requete SQL :
+INSERT => inseriton
+UPADTE = > modification
+DELETE = => suppresion
+SELECT => séléction
+
+
+Quelque termes : 
+    MCD : Modèle conceptuel de données (plan de construction)
+    SGBD : système de gestion de bas de données (exmploite les donées)
+    BDD : Bas de Donnés (Emplaceme,nt de donéées sauvegarder)
+    SQL : structured query language (langage de requêtes )
+
+Outils nécéssaire (serveur local) : xampp | wampp | laragon ou autre...
+
+Le langage SQL est un langage traduit SEVER, (un navigateur ne peut pas traduire el code SQL ou PHP)il faut donc un interpréteur pour traduir le code et le renvoyer au format 100% HTMLs 
+
